@@ -2,7 +2,6 @@ ya no quiero esta línea
 
 quiero esta otra
 
+Cambio para la master
 
-linea para probar el dif
 
-Otro cambio fuera del stagement
