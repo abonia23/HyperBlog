@@ -3,3 +3,15 @@ body{
     font-family: Arial;
     color: deeppink;
 }
+
+#container
+{
+    width: 705;
+    padding: 1em;
+    text-align: center;
+    border: 1px;
+    color: gray;
+    border: 1px solid #DDD;
+    align-self: center;
+    margin: 0 auto;
+}
