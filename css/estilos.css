@@ -14,4 +14,19 @@ body{
     border: 1px solid #DDD;
     align-self: center;
     margin: 0 auto;
+    padding: auto;
+}
+
+#cabecera
+{
+    background:  #3DA;
+    box-shadow: 0px 2px 0px rgba(0,0,0,0,75);
+    margin : 0;
+    color: white;
+}
+
+#cabecera #tagline
+{
+    font-weight: normal;
+    font-size: 0.8em;
 }
