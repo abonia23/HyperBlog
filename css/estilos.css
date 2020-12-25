@@ -31,3 +31,12 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#header{
+    background : red;
+    align-self : center;
+    color:  black;
+    padding: auto;
+    width: 705;
+    margin : auto;
+}
