@@ -8,6 +8,7 @@ ____________
 
 * Creado por Sergio Ospina Abonía
 * Incluye todos los comandos
+* Disponible para todos
 
 ###### Things I learned on this course:
 - Git and GitHub´s commands.
