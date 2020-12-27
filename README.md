@@ -7,6 +7,8 @@ This is a Blog in order to undertand Git and GitHub.
 ____________
 
 * Creado por Sergio Ospina Abonía
+* Incluye todos los comandos
+* Disponible para todos
 
 ###### Things I learned on this course:
 - Git and GitHub´s commands.
